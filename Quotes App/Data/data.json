@@ -1,0 +1,36 @@
+[
+    {
+        "author": "Wayne Gretzky",
+        "quotes": [
+            "You miss 100 percent of the shots you never take.",
+            "I skate to where the puck is going to be, not to where it has been.",
+            "A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be."
+        ],
+        "image": "image 1"
+    },
+    {
+        "author": "Charles Swindoll",
+        "quotes": [
+            "Life is 10% what happens to you and 90% how you react to it.",
+            "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+            "Each day of our lives we make deposits in the memory banks of our children."
+        ],
+        "image": "image 2"
+    },
+    {
+        "author": "Henry David Thoreau",
+        "quotes": [
+            "Go confidently in the direction of your dreams! Live the life you've imagined.",
+            "Our life is frittered away by detail... simplify, simplify.",
+            "The mass of men lead lives of quiet desperation."
+        ],
+        "image": "image 3"
+    },
+    {
+        "author": "George Addair",
+        "quotes": [
+            "Everything you’ve ever wanted is on the other side of fear."
+        ],
+        "image": "image 4"
+    }
+]
